@@ -78,6 +78,7 @@ ChatGPT-Clone/
 │   └── middleware/
 └── README.md
 
+---
 
 ## 📚 Learnings
 ✅ Working with OpenAI APIs in full-stack apps
@@ -90,10 +91,16 @@ ChatGPT-Clone/
 
 ✅ Deployment workflows for MERN projects
 
+---
+
 ## 🧑‍💻 Author
+Made with ❤️ by **MalickMuzamil**
 
-Made with ❤️ by MalickMuzamil
+📫 malikmuzamil92110@gmail.com
 
-📫 Email: malikmuzamil92110@gmail.com
+🔗 LinkedIn
 
-🔗 LinkedIn: linkedin.com/in/malik-muzamil
+📫 https://www.linkedin.com/in/malik-muzamil/
+
+---
+
