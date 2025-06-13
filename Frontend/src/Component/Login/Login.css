@@ -1,0 +1,93 @@
+.heading2{
+    font-size: 2rem;
+    margin-top: 9rem;
+}
+
+.custom-field {
+    position: relative;
+    margin-bottom: 5px;
+    width: 30%;
+}
+
+.custom-field input {
+    border: 2px solid #68b36e;
+    background: none;
+    /* padding: 15px 6rem; */
+    border-radius: 3px;
+    outline: none;
+    font-size: 14px;
+}
+
+.custom-field .placeholder {
+    position: absolute;
+    left: 12px;
+    top: 16px;
+    line-height: 100%;
+    background-color: white !important;
+    transition: top 0.3s ease, color 0.3s ease, font-size 0.3s ease;
+}
+
+.custom-field input:focus + .placeholder,
+.custom-field input:not(:placeholder-shown) + .placeholder {
+    top: -7px;
+    font-size: 14px;
+    color: #68b36e;
+    background: #fff;
+}
+
+label {
+    display: inline-table !important;
+    justify-content: center;
+}
+
+.account{
+    font-size: 13px;
+    color: #828282;
+    margin: 25px 0px;
+}
+
+.header {
+    height: 20px;
+    margin: auto;
+    text-align: center;
+    font-size: 0.8rem;
+    position: relative;
+}
+.header:after {
+    content: '';
+    width: 100%;
+    border-bottom: solid 1px #c0c0c7;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    z-index: 1;
+}
+.email {
+    background-color: #FFFFFF;
+    width: auto;
+    display: inline-block;
+    z-index: 3;
+    padding: 0 20px 0 20px;
+    color: #99A1B7;
+    position: relative;
+    margin: 0;
+}
+
+.sign-up{
+    color: #68b36e;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.form-class:focus{
+    background: white;
+    color: black;
+}
+
+.form-class{
+    border-radius: 10px !important;
+}
+
+.width{
+    width: 30%;
+}

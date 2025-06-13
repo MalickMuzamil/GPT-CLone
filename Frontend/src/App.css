@@ -1,0 +1,11 @@
+.main-page {
+    background-color: #282c34;
+  }
+  
+  .sidebar {
+    background-color: #000000;
+  }
+  
+  .main-page {
+    height: 100vh;
+  }

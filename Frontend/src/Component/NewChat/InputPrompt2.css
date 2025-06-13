@@ -1,0 +1,94 @@
+.log-out{
+    border: 1px solid rgb(156, 156, 156);
+    padding: 8px;
+    border-radius: 8px;
+    color: white;
+}
+
+.form-control{
+    background: #343541;
+    border: 1px solid #555561;
+    border-radius: 16px;
+    padding: 14px;
+    color: white;
+}
+
+.form-control:focus{
+    background: #282c34;
+    color: white;
+    border: 1px solid #555561;
+    border-radius: 10px;   
+}
+
+
+.form-control::placeholder{
+    color: #898A91;
+    font-size: 14px;
+}
+
+.font-size{
+    font-size: 13px;
+    color: #B3B3C0;
+}
+
+.NavDropdown{
+    width: 30px;
+}
+
+.dropdown-menu{
+    /* display: inline-grid; */
+    background-color: #202123;
+    border-radius: 8px;
+    padding: 3px 3px;
+}
+
+.dropdown-item{
+    padding: 3px 3px;
+}
+
+.dropdown-item:hover{
+    border-color: rgb(56, 56, 56); 
+    background-color: rgb(56, 56, 56);
+	padding: 3px 3px;
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+.card{
+    border-radius: 13px !important;
+    color: white;
+    border: 1px solid #828282;
+    background-color: #282C34;
+}
+
+.card:hover{
+    /* border-color: rgb(56, 56, 56);  */
+    background-color: #5c5d5e59;
+	/* padding: 3px 3px; */
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+.heading{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.sub-heading{
+    font-size: 12px;
+    color: #B3B3C0;
+    font-weight: bold;
+}
+
+.icon{
+    display: none;
+    background: #202123;
+    padding: 8px;
+    border-radius: 11px;
+}
+
+.icon-hidden:hover{
+    .icon{
+        display: block;
+    }
+}
