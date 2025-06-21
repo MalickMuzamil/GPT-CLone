@@ -96,11 +96,8 @@ ChatGPT-Clone/
 ## 🧑‍💻 Author
 Made with ❤️ by **MalickMuzamil**
 
-📫 malikmuzamil92110@gmail.com
+<!-- 📧 Email: malikmuzamil92110@example.com | 💼 LinkedIn: linkedin.com/in/malik-muzamil -->
 
-🔗 LinkedIn
-
-📫 https://www.linkedin.com/in/malik-muzamil/
 
 ---
 
